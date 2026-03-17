@@ -29,7 +29,7 @@ quiz-app/
 ├── style.css
 └── app.js
 🔧 Run Locally
-[View on Vercel →](https://quiz-app-tau-rouge.vercel.app)
+[View on Vercel →][https://quiz-app-tau-rouge.vercel.app](https://quiz-app-blush-iota-70.vercel.app/)
 cd js-quiz-app
 # Open index.html in your browser or use Live Server
 📚 Concepts Practiced
