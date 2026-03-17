@@ -29,7 +29,7 @@ quiz-app/
 ├── style.css
 └── app.js
 🔧 Run Locally
-bashgit clone https://github.com/YOUR_USERNAME/js-quiz-app.git
+[View on Vercel →](https://quiz-app-tau-rouge.vercel.app)
 cd js-quiz-app
 # Open index.html in your browser or use Live Server
 📚 Concepts Practiced
